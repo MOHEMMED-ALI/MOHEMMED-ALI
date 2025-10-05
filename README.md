@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+Hey, I'm Mohammed Ali 👋
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mohammed Ali Elkhaddar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/boy______unknown) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammed Ali Elkhaddar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elkhaddarmehammedali@gmail.com) 
 
